@@ -1,2 +1,8 @@
-# capture_ios
-Photography application.
+# Capture
+
+
+
+
+
+
+
